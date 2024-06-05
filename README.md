@@ -1,5 +1,5 @@
 # Light-DehazeNet
-Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [Paper](https://ieeexplore.ieee.org/abstract/document/9562276)
+Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing.
 
 ![](readme_images/framework.png)
 
@@ -10,7 +10,7 @@ This repo contains the implementation of our proposed LD-Net, the prerequisite l
 
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
 ```
-git clone https://github.com/hayatkhan8660-maker/Light-DehazeNet.git
+git clone https://github.com/Gokulanandan-S/Light-DehazeNet.git
 cd Light-DehazeNet
 ```
 
@@ -81,11 +81,4 @@ Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and t
 ![](readme_images/rgbsdres.png)
 
 
-
-```
-
-```
-Ullah, H., Muhammad, K., Irfan, M., Anwar, S., Sajjad, M., Imran, A. S., & De Albuquerque, V. H. C., 
-"Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing", 
-IEEE Transactions on Image Processing, 2021.
 ```
