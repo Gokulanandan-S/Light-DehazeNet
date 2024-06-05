@@ -80,22 +80,8 @@ Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and t
 ![](readme_images/ounatres.png)
 ![](readme_images/rgbsdres.png)
 
-### CVR Module :warning:
-Oringinally the CVR module is written in matlab. For user's convenience, we are working to parse it to Python and soon will upload it to this repo.   
-For time being the CVR matlab version can be accessed with the following google drive link : (https://drive.google.com/file/d/12myYdZbZqegrORpzn62CEo_pqJwbNaU6/view?usp=sharing)
 
 
-
-## Citation
-Please cite our paper, if you want to reproduce the results using this code.
-```
-@article{ullah2021light,
-  title={Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing},
-  author={Ullah, Hayat and Muhammad, Khan and Irfan, Muhammad and Anwar, Saeed and Sajjad, Muhammad and Imran, Ali Shariq and De Albuquerque, Victor Hugo C},
-  journal={IEEE Transactions on Image Processing},
-  year={2021},
-  publisher={IEEE}
-}
 ```
 
 ```
